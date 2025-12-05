@@ -1,0 +1,1129 @@
+[INFO] 2025-11-19 13:10:34,202 — root — Logging initialized successfully.
+[INFO] 2025-11-19 13:10:34,209 — model_loader — Loading YOLO models on CPU...
+[INFO] 2025-11-19 13:17:09,948 — root — Logging initialized successfully.
+[INFO] 2025-11-19 13:17:09,949 — __main__ — Starting SmartCity server...
+[INFO] 2025-11-19 13:17:09,951 — __main__ — Initializing YOLO models...
+[INFO] 2025-11-19 13:17:09,952 — model_loader — Loading YOLO models on CPU...
+[INFO] 2025-11-19 13:17:10,238 — model_loader — Models loaded successfully.
+[INFO] 2025-11-19 13:17:10,238 — __main__ — Models loaded successfully.
+[INFO] 2025-11-19 14:55:32,957 — root — Logging initialized successfully.
+[INFO] 2025-11-19 14:55:32,958 — __main__ — Starting SmartCity server...
+[INFO] 2025-11-19 14:55:32,961 — __main__ — Initializing YOLO models...
+[INFO] 2025-11-19 14:55:32,962 — model_loader — Loading YOLO models on CPU...
+[INFO] 2025-11-19 14:55:33,276 — model_loader — Models loaded successfully.
+[INFO] 2025-11-19 14:55:33,277 — __main__ — Models loaded successfully.
+[INFO] 2025-11-19 15:00:43,857 — root — Logging initialized successfully.
+[INFO] 2025-11-19 15:00:43,857 — __main__ — Starting SmartCity server...
+[INFO] 2025-11-19 15:00:43,859 — __main__ — Initializing YOLO models...
+[INFO] 2025-11-19 15:00:43,859 — model_loader — Loading YOLO models on CPU...
+[INFO] 2025-11-19 15:00:44,001 — model_loader — Models loaded successfully.
+[INFO] 2025-11-19 15:00:44,001 — __main__ — Models loaded successfully.
+[INFO] 2025-11-19 15:00:44,203 — __main__ — Database tables initialized.
+[INFO] 2025-11-19 15:00:44,205 — sentence_transformers.SentenceTransformer — Use pytorch device_name: cpu
+[INFO] 2025-11-19 15:00:44,205 — sentence_transformers.SentenceTransformer — Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[INFO] 2025-11-19 15:00:50,336 — werkzeug — [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.101.7:5000
+[INFO] 2025-11-19 15:00:50,337 — werkzeug — [33mPress CTRL+C to quit[0m
+[INFO] 2025-11-19 15:00:50,375 — werkzeug —  * Restarting with watchdog (windowsapi)
+[INFO] 2025-11-19 15:01:15,496 — root — Logging initialized successfully.
+[INFO] 2025-11-19 15:01:15,497 — __main__ — Starting SmartCity server...
+[INFO] 2025-11-19 15:01:15,499 — __main__ — Initializing YOLO models...
+[INFO] 2025-11-19 15:01:15,499 — model_loader — Loading YOLO models on CPU...
+[INFO] 2025-11-19 15:01:15,712 — model_loader — Models loaded successfully.
+[INFO] 2025-11-19 15:01:15,712 — __main__ — Models loaded successfully.
+[INFO] 2025-11-19 15:01:15,959 — __main__ — Database tables initialized.
+[INFO] 2025-11-19 15:01:15,961 — sentence_transformers.SentenceTransformer — Use pytorch device_name: cpu
+[INFO] 2025-11-19 15:01:15,962 — sentence_transformers.SentenceTransformer — Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[WARNING] 2025-11-19 15:01:20,423 — werkzeug —  * Debugger is active!
+[INFO] 2025-11-19 15:01:20,431 — werkzeug —  * Debugger PIN: 124-983-047
+[INFO] 2025-11-19 15:01:22,220 — werkzeug —  * Detected change in 'C:\\Users\\Saina\\anaconda3\\envs\\project\\Lib\\site-packages\\flask\\app.py', reloading
+[INFO] 2025-11-19 15:01:22,225 — werkzeug —  * Detected change in 'C:\\Users\\Saina\\anaconda3\\envs\\project\\Lib\\site-packages\\sqlalchemy\\util\\deprecations.py', reloading
+[INFO] 2025-11-19 15:01:22,229 — werkzeug —  * Detected change in 'C:\\Users\\Saina\\anaconda3\\envs\\project\\Lib\\site-packages\\sqlalchemy\\orm\\query.py', reloading
+[INFO] 2025-11-19 15:01:22,234 — werkzeug —  * Detected change in 'C:\\Users\\Saina\\anaconda3\\envs\\project\\Lib\\site-packages\\sqlalchemy\\orm\\session.py', reloading
+[INFO] 2025-11-19 15:01:22,237 — werkzeug —  * Detected change in 'C:\\Users\\Saina\\anaconda3\\envs\\project\\Lib\\site-packages\\sqlalchemy\\orm\\loading.py', reloading
+[INFO] 2025-11-19 15:01:22,239 — werkzeug —  * Detected change in 'C:\\Users\\Saina\\anaconda3\\envs\\project\\Lib\\site-packages\\flask_sqlalchemy\\session.py', reloading
+[INFO] 2025-11-19 15:01:22,244 — werkzeug —  * Detected change in 'C:\\Users\\Saina\\anaconda3\\envs\\project\\Lib\\site-packages\\flask_sqlalchemy\\extension.py', reloading
+[INFO] 2025-11-19 15:01:22,259 — werkzeug — 127.0.0.1 - - [19/Nov/2025 15:01:22] "[35m[1mGET /detections/a924351a-6d73-4bbb-b2f9-225e46005cdc HTTP/1.1[0m" 500 -
+[INFO] 2025-11-19 15:01:24,962 — werkzeug —  * Restarting with watchdog (windowsapi)
+[INFO] 2025-11-19 15:01:55,321 — root — Logging initialized successfully.
+[INFO] 2025-11-19 15:01:55,321 — __main__ — Starting SmartCity server...
+[INFO] 2025-11-19 15:01:55,324 — __main__ — Initializing YOLO models...
+[INFO] 2025-11-19 15:01:55,324 — model_loader — Loading YOLO models on CPU...
+[INFO] 2025-11-19 15:01:55,577 — model_loader — Models loaded successfully.
+[INFO] 2025-11-19 15:01:55,577 — __main__ — Models loaded successfully.
+[INFO] 2025-11-19 15:01:55,702 — __main__ — Database tables initialized.
+[INFO] 2025-11-19 15:01:55,706 — sentence_transformers.SentenceTransformer — Use pytorch device_name: cpu
+[INFO] 2025-11-19 15:01:55,707 — sentence_transformers.SentenceTransformer — Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[WARNING] 2025-11-19 15:02:00,283 — werkzeug —  * Debugger is active!
+[INFO] 2025-11-19 15:02:00,289 — werkzeug —  * Debugger PIN: 124-983-047
+[INFO] 2025-11-19 15:02:00,404 — __main__ — File saved: acf958bd-e43c-4f11-80f8-d2c45771681b_20251119T091700Z_w1.jpg
+[ERROR] 2025-11-19 15:02:01,416 — __main__ — Database save failed
+Traceback (most recent call last):
+  File "C:\Files\Intern\ML-Project\app.py", line 188, in detect
+    dept = Department.query.filter_by(name=dept_name).first()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\query.py", line 2759, in first
+    return self.limit(1)._iter().first()  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\query.py", line 2857, in _iter
+    result: Union[ScalarResult[_T], Result[_T]] = self.session.execute(
+                                                  ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\session.py", line 2351, in execute
+    return self._execute_internal(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\session.py", line 2237, in _execute_internal
+    bind = self.get_bind(**bind_arguments)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\flask_sqlalchemy\session.py", line 53, in get_bind
+    engines = self._db.engines
+              ^^^^^^^^^^^^^^^^
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\flask_sqlalchemy\extension.py", line 690, in engines
+    raise RuntimeError(
+RuntimeError: The current Flask app is not registered with this 'SQLAlchemy' instance. Did you forget to call 'init_app', or did you create multiple 'SQLAlchemy' instances?
+[INFO] 2025-11-19 15:02:01,431 — werkzeug — 127.0.0.1 - - [19/Nov/2025 15:02:01] "[35m[1mPOST /detect HTTP/1.1[0m" 500 -
+[INFO] 2025-11-19 15:02:58,308 — werkzeug —  * Detected change in 'C:\\Files\\Intern\\ML-Project\\models\\__init__.py', reloading
+[INFO] 2025-11-19 15:02:58,311 — werkzeug —  * Detected change in 'C:\\Files\\Intern\\ML-Project\\models\\__init__.py', reloading
+[INFO] 2025-11-19 15:03:00,473 — werkzeug —  * Restarting with watchdog (windowsapi)
+[INFO] 2025-11-19 15:03:16,251 — root — Logging initialized successfully.
+[INFO] 2025-11-19 15:03:16,252 — __main__ — Starting SmartCity server...
+[INFO] 2025-11-19 15:03:16,253 — __main__ — Initializing YOLO models...
+[INFO] 2025-11-19 15:03:16,254 — model_loader — Loading YOLO models on CPU...
+[INFO] 2025-11-19 15:03:16,371 — model_loader — Models loaded successfully.
+[INFO] 2025-11-19 15:03:16,372 — __main__ — Models loaded successfully.
+[INFO] 2025-11-19 15:03:16,503 — __main__ — Database tables initialized.
+[INFO] 2025-11-19 15:03:16,506 — sentence_transformers.SentenceTransformer — Use pytorch device_name: cpu
+[INFO] 2025-11-19 15:03:16,507 — sentence_transformers.SentenceTransformer — Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[WARNING] 2025-11-19 15:03:20,288 — werkzeug —  * Debugger is active!
+[INFO] 2025-11-19 15:03:20,294 — werkzeug —  * Debugger PIN: 124-983-047
+[INFO] 2025-11-19 15:07:05,106 — werkzeug —  * Detected change in 'C:\\Files\\Intern\\ML-Project\\app.py', reloading
+[INFO] 2025-11-19 15:07:05,106 — werkzeug —  * Detected change in 'C:\\Files\\Intern\\ML-Project\\app.py', reloading
+[INFO] 2025-11-19 15:07:07,267 — werkzeug —  * Restarting with watchdog (windowsapi)
+[INFO] 2025-11-19 15:07:50,117 — root — Logging initialized successfully.
+[INFO] 2025-11-19 15:07:50,117 — __main__ — Starting SmartCity server...
+[INFO] 2025-11-19 15:07:50,119 — __main__ — Initializing YOLO models...
+[INFO] 2025-11-19 15:07:50,119 — model_loader — Loading YOLO models on CPU...
+[INFO] 2025-11-19 15:07:50,229 — model_loader — Models loaded successfully.
+[INFO] 2025-11-19 15:07:50,230 — __main__ — Models loaded successfully.
+[INFO] 2025-11-19 15:07:50,524 — __main__ — Database tables initialized.
+[INFO] 2025-11-19 15:07:50,526 — sentence_transformers.SentenceTransformer — Use pytorch device_name: cpu
+[INFO] 2025-11-19 15:07:50,527 — sentence_transformers.SentenceTransformer — Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[INFO] 2025-11-19 15:07:54,768 — werkzeug — [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.101.7:5000
+[INFO] 2025-11-19 15:07:54,769 — werkzeug — [33mPress CTRL+C to quit[0m
+[INFO] 2025-11-19 15:07:54,781 — werkzeug —  * Restarting with watchdog (windowsapi)
+[INFO] 2025-11-19 15:08:19,704 — root — Logging initialized successfully.
+[INFO] 2025-11-19 15:08:19,704 — __main__ — Starting SmartCity server...
+[INFO] 2025-11-19 15:08:19,707 — __main__ — Initializing YOLO models...
+[INFO] 2025-11-19 15:08:19,708 — model_loader — Loading YOLO models on CPU...
+[INFO] 2025-11-19 15:08:19,943 — model_loader — Models loaded successfully.
+[INFO] 2025-11-19 15:08:19,944 — __main__ — Models loaded successfully.
+[INFO] 2025-11-19 15:08:20,096 — __main__ — Database tables initialized.
+[INFO] 2025-11-19 15:08:20,100 — sentence_transformers.SentenceTransformer — Use pytorch device_name: cpu
+[INFO] 2025-11-19 15:08:20,101 — sentence_transformers.SentenceTransformer — Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[WARNING] 2025-11-19 15:08:25,075 — werkzeug —  * Debugger is active!
+[INFO] 2025-11-19 15:08:25,080 — werkzeug —  * Debugger PIN: 124-983-047
+[ERROR] 2025-11-19 15:08:26,496 — __main__ — Unexpected error in /detect
+Traceback (most recent call last):
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\engine\base.py", line 1967, in _exec_single_context
+    self.dialect.do_execute(
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\engine\default.py", line 951, in do_execute
+    cursor.execute(statement, parameters)
+psycopg2.errors.UndefinedColumn: column "user_id" of relation "detection" does not exist
+LINE 1: INSERT INTO detection (id, user_id, type, params, routing, t...
+                                   ^
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Files\Intern\ML-Project\app.py", line 177, in detect
+    dept = Department.query.filter_by(name=dept_name).first()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\query.py", line 2759, in first
+    return self.limit(1)._iter().first()  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\query.py", line 2857, in _iter
+    result: Union[ScalarResult[_T], Result[_T]] = self.session.execute(
+                                                  ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\session.py", line 2351, in execute
+    return self._execute_internal(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\session.py", line 2228, in _execute_internal
+    ) = compile_state_cls.orm_pre_session_exec(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\context.py", line 577, in orm_pre_session_exec
+    session._autoflush()
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\session.py", line 3051, in _autoflush
+    raise e.with_traceback(sys.exc_info()[2])
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\session.py", line 3040, in _autoflush
+    self.flush()
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\session.py", line 4331, in flush
+    self._flush(objects)
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\session.py", line 4466, in _flush
+    with util.safe_reraise():
+         ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\util\langhelpers.py", line 224, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\session.py", line 4427, in _flush
+    flush_context.execute()
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\unitofwork.py", line 466, in execute
+    rec.execute(self)
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\unitofwork.py", line 642, in execute
+    util.preloaded.orm_persistence.save_obj(
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\persistence.py", line 93, in save_obj
+    _emit_insert_statements(
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\persistence.py", line 1048, in _emit_insert_statements
+    result = connection.execute(
+             ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\engine\base.py", line 1419, in execute
+    return meth(
+           ^^^^^
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\sql\elements.py", line 526, in _execute_on_connection
+    return connection._execute_clauseelement(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\engine\base.py", line 1641, in _execute_clauseelement
+    ret = self._execute_context(
+          ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\engine\base.py", line 1846, in _execute_context
+    return self._exec_single_context(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\engine\base.py", line 1986, in _exec_single_context
+    self._handle_dbapi_exception(
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\engine\base.py", line 2355, in _handle_dbapi_exception
+    raise sqlalchemy_exception.with_traceback(exc_info[2]) from e
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\engine\base.py", line 1967, in _exec_single_context
+    self.dialect.do_execute(
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\engine\default.py", line 951, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.ProgrammingError: (raised as a result of Query-invoked autoflush; consider using a session.no_autoflush block if this flush is occurring prematurely)
+(psycopg2.errors.UndefinedColumn) column "user_id" of relation "detection" does not exist
+LINE 1: INSERT INTO detection (id, user_id, type, params, routing, t...
+                                   ^
+
+[SQL: INSERT INTO detection (id, user_id, type, params, routing, timestamp) VALUES (%(id)s, %(user_id)s, %(type)s, %(params)s::JSON, %(routing)s::JSON, %(timestamp)s)]
+[parameters: {'id': '0003883c-feab-4e7a-8176-c386fc3e8b7e', 'user_id': None, 'type': 'waste', 'params': '{"detections": [{"xyxy": [184.546630859375, 212.54483032226562, 502.1412353515625, 427.4015197753906], "conf": 0.3083190321922302, "class_id": 4, "cl ... (574 characters truncated) ... idual", "area_px": 68237.32530936599, "area_pct": 0.1665950324935693, "density": 1.0, "proximity_pct": 0.3321851253509521}, "waste_type": "residual"}', 'routing': '{"departments": ["Ward Office"], "priority": "high", "scores": {"Waste Management": 0.7950447201728821, "Construction": 0.0, "Municipality": 0.614993 ... (19 characters truncated) ... : 0.7953193187713623, "Electricity": 0.5370234251022339, "Water": 1.0, "Ward Office": 0.2974102795124054}, "auto_assigned_department": "Ward Office"}', 'timestamp': '20251119T092326Z'}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+[INFO] 2025-11-19 15:08:26,510 — werkzeug —  * Detected change in 'C:\\Users\\Saina\\anaconda3\\envs\\project\\Lib\\site-packages\\sqlalchemy\\orm\\context.py', reloading
+[INFO] 2025-11-19 15:08:26,538 — werkzeug — 127.0.0.1 - - [19/Nov/2025 15:08:26] "[35m[1mPOST /detect HTTP/1.1[0m" 500 -
+[INFO] 2025-11-19 15:08:28,972 — werkzeug —  * Restarting with watchdog (windowsapi)
+[INFO] 2025-11-19 15:08:49,041 — root — Logging initialized successfully.
+[INFO] 2025-11-19 15:08:49,041 — __main__ — Starting SmartCity server...
+[INFO] 2025-11-19 15:08:49,042 — __main__ — Initializing YOLO models...
+[INFO] 2025-11-19 15:08:49,043 — model_loader — Loading YOLO models on CPU...
+[INFO] 2025-11-19 15:08:49,135 — model_loader — Models loaded successfully.
+[INFO] 2025-11-19 15:08:49,135 — __main__ — Models loaded successfully.
+[INFO] 2025-11-19 15:08:49,208 — __main__ — Database tables initialized.
+[INFO] 2025-11-19 15:08:49,210 — sentence_transformers.SentenceTransformer — Use pytorch device_name: cpu
+[INFO] 2025-11-19 15:08:49,210 — sentence_transformers.SentenceTransformer — Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[WARNING] 2025-11-19 15:08:52,887 — werkzeug —  * Debugger is active!
+[INFO] 2025-11-19 15:08:52,890 — werkzeug —  * Debugger PIN: 124-983-047
+[INFO] 2025-11-19 15:08:55,982 — werkzeug —  * Detected change in 'C:\\Files\\Intern\\ML-Project\\models\\detection.py', reloading
+[INFO] 2025-11-19 15:08:55,984 — werkzeug —  * Detected change in 'C:\\Files\\Intern\\ML-Project\\models\\detection.py', reloading
+[INFO] 2025-11-19 15:08:57,508 — werkzeug —  * Restarting with watchdog (windowsapi)
+[INFO] 2025-11-19 15:09:12,063 — root — Logging initialized successfully.
+[INFO] 2025-11-19 15:09:12,063 — __main__ — Starting SmartCity server...
+[INFO] 2025-11-19 15:09:12,064 — __main__ — Initializing YOLO models...
+[INFO] 2025-11-19 15:09:12,065 — model_loader — Loading YOLO models on CPU...
+[INFO] 2025-11-19 15:09:12,147 — model_loader — Models loaded successfully.
+[INFO] 2025-11-19 15:09:12,148 — __main__ — Models loaded successfully.
+[INFO] 2025-11-19 15:09:12,278 — __main__ — Database tables initialized.
+[INFO] 2025-11-19 15:09:12,280 — sentence_transformers.SentenceTransformer — Use pytorch device_name: cpu
+[INFO] 2025-11-19 15:09:12,281 — sentence_transformers.SentenceTransformer — Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[WARNING] 2025-11-19 15:09:16,238 — werkzeug —  * Debugger is active!
+[INFO] 2025-11-19 15:09:16,242 — werkzeug —  * Debugger PIN: 124-983-047
+[ERROR] 2025-11-19 15:10:53,586 — __main__ — Unexpected error in /detect
+Traceback (most recent call last):
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\relationships.py", line 2434, in _determine_joins
+    self.primaryjoin = join_condition(
+                       ^^^^^^^^^^^^^^^
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\sql\util.py", line 121, in join_condition
+    return Join._join_condition(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\sql\selectable.py", line 1447, in _join_condition
+    raise exc.NoForeignKeysError(
+sqlalchemy.exc.NoForeignKeysError: Can't find any foreign key relationships between 'user' and 'detection'.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Files\Intern\ML-Project\app.py", line 157, in detect
+    det = Detection(
+          ^^^^^^^^^^
+  File "<string>", line 4, in __init__
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\state.py", line 566, in _initialize_instance
+    manager.dispatch.init(self, args, kwargs)
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\event\attr.py", line 515, in __call__
+    fn(*args, **kw)
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\mapper.py", line 4410, in _event_on_init
+    instrumenting_mapper._check_configure()
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\mapper.py", line 2401, in _check_configure
+    _configure_registries({self.registry}, cascade=True)
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\mapper.py", line 4218, in _configure_registries
+    _do_configure_registries(registries, cascade)
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\mapper.py", line 4259, in _do_configure_registries
+    mapper._post_configure_properties()
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\mapper.py", line 2418, in _post_configure_properties
+    prop.init()
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\interfaces.py", line 595, in init
+    self.do_init()
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\relationships.py", line 1657, in do_init
+    self._setup_join_conditions()
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\relationships.py", line 1895, in _setup_join_conditions
+    self._join_condition = jc = JoinCondition(
+                                ^^^^^^^^^^^^^^
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\relationships.py", line 2321, in __init__
+    self._determine_joins()
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\relationships.py", line 2455, in _determine_joins
+    raise sa_exc.NoForeignKeysError(
+sqlalchemy.exc.NoForeignKeysError: Could not determine join condition between parent/child tables on relationship User.detections - there are no foreign keys linking these tables.  Ensure that referencing columns are associated with a ForeignKey or ForeignKeyConstraint, or specify a 'primaryjoin' expression.
+[INFO] 2025-11-19 15:10:53,593 — werkzeug —  * Detected change in 'C:\\Users\\Saina\\anaconda3\\envs\\project\\Lib\\site-packages\\sqlalchemy\\orm\\state.py', reloading
+[INFO] 2025-11-19 15:10:53,628 — werkzeug — 127.0.0.1 - - [19/Nov/2025 15:10:53] "[35m[1mPOST /detect HTTP/1.1[0m" 500 -
+[INFO] 2025-11-19 15:10:53,629 — werkzeug —  * Detected change in 'C:\\Users\\Saina\\anaconda3\\envs\\project\\Lib\\site-packages\\sqlalchemy\\event\\attr.py', reloading
+[INFO] 2025-11-19 15:10:53,631 — werkzeug —  * Detected change in 'C:\\Users\\Saina\\anaconda3\\envs\\project\\Lib\\site-packages\\sqlalchemy\\orm\\mapper.py', reloading
+[INFO] 2025-11-19 15:10:53,633 — werkzeug —  * Detected change in 'C:\\Users\\Saina\\anaconda3\\envs\\project\\Lib\\site-packages\\sqlalchemy\\orm\\interfaces.py', reloading
+[INFO] 2025-11-19 15:10:53,637 — werkzeug —  * Detected change in 'C:\\Users\\Saina\\anaconda3\\envs\\project\\Lib\\site-packages\\sqlalchemy\\orm\\relationships.py', reloading
+[INFO] 2025-11-19 15:10:53,639 — werkzeug —  * Detected change in 'C:\\Users\\Saina\\anaconda3\\envs\\project\\Lib\\site-packages\\sqlalchemy\\sql\\util.py', reloading
+[INFO] 2025-11-19 15:10:53,641 — werkzeug —  * Detected change in 'C:\\Users\\Saina\\anaconda3\\envs\\project\\Lib\\site-packages\\sqlalchemy\\sql\\selectable.py', reloading
+[INFO] 2025-11-19 15:10:56,277 — werkzeug —  * Restarting with watchdog (windowsapi)
+[INFO] 2025-11-19 15:11:15,735 — root — Logging initialized successfully.
+[INFO] 2025-11-19 15:11:15,735 — __main__ — Starting SmartCity server...
+[INFO] 2025-11-19 15:11:15,738 — __main__ — Initializing YOLO models...
+[INFO] 2025-11-19 15:11:15,738 — model_loader — Loading YOLO models on CPU...
+[INFO] 2025-11-19 15:11:15,918 — model_loader — Models loaded successfully.
+[INFO] 2025-11-19 15:11:15,918 — __main__ — Models loaded successfully.
+[INFO] 2025-11-19 15:11:16,041 — __main__ — Database tables initialized.
+[INFO] 2025-11-19 15:11:16,043 — sentence_transformers.SentenceTransformer — Use pytorch device_name: cpu
+[INFO] 2025-11-19 15:11:16,044 — sentence_transformers.SentenceTransformer — Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[WARNING] 2025-11-19 15:11:19,859 — werkzeug —  * Debugger is active!
+[INFO] 2025-11-19 15:11:19,864 — werkzeug —  * Debugger PIN: 124-983-047
+[INFO] 2025-11-19 15:11:27,360 — werkzeug —  * Detected change in 'C:\\Files\\Intern\\ML-Project\\models\\detection.py', reloading
+[INFO] 2025-11-19 15:11:27,362 — werkzeug —  * Detected change in 'C:\\Files\\Intern\\ML-Project\\models\\detection.py', reloading
+[INFO] 2025-11-19 15:11:28,818 — werkzeug —  * Restarting with watchdog (windowsapi)
+[INFO] 2025-11-19 15:11:42,683 — root — Logging initialized successfully.
+[INFO] 2025-11-19 15:11:42,684 — __main__ — Starting SmartCity server...
+[INFO] 2025-11-19 15:11:42,686 — __main__ — Initializing YOLO models...
+[INFO] 2025-11-19 15:11:42,687 — model_loader — Loading YOLO models on CPU...
+[INFO] 2025-11-19 15:11:42,794 — model_loader — Models loaded successfully.
+[INFO] 2025-11-19 15:11:42,795 — __main__ — Models loaded successfully.
+[INFO] 2025-11-19 15:11:42,883 — __main__ — Database tables initialized.
+[INFO] 2025-11-19 15:11:42,886 — sentence_transformers.SentenceTransformer — Use pytorch device_name: cpu
+[INFO] 2025-11-19 15:11:42,886 — sentence_transformers.SentenceTransformer — Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[WARNING] 2025-11-19 15:11:46,515 — werkzeug —  * Debugger is active!
+[INFO] 2025-11-19 15:11:46,521 — werkzeug —  * Debugger PIN: 124-983-047
+[INFO] 2025-11-19 15:13:01,416 — root — Logging initialized successfully.
+[INFO] 2025-11-19 15:13:01,416 — __main__ — Starting SmartCity server...
+[INFO] 2025-11-19 15:13:01,418 — __main__ — Initializing YOLO models...
+[INFO] 2025-11-19 15:13:01,418 — model_loader — Loading YOLO models on CPU...
+[INFO] 2025-11-19 15:13:01,502 — model_loader — Models loaded successfully.
+[INFO] 2025-11-19 15:13:01,502 — __main__ — Models loaded successfully.
+[INFO] 2025-11-19 15:13:01,567 — __main__ — Database tables initialized.
+[INFO] 2025-11-19 15:13:01,569 — sentence_transformers.SentenceTransformer — Use pytorch device_name: cpu
+[INFO] 2025-11-19 15:13:01,569 — sentence_transformers.SentenceTransformer — Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[INFO] 2025-11-19 15:13:06,040 — werkzeug — [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.101.7:5000
+[INFO] 2025-11-19 15:13:06,040 — werkzeug — [33mPress CTRL+C to quit[0m
+[INFO] 2025-11-19 15:13:06,053 — werkzeug —  * Restarting with watchdog (windowsapi)
+[INFO] 2025-11-19 15:13:26,980 — root — Logging initialized successfully.
+[INFO] 2025-11-19 15:13:26,981 — __main__ — Starting SmartCity server...
+[INFO] 2025-11-19 15:13:26,984 — __main__ — Initializing YOLO models...
+[INFO] 2025-11-19 15:13:26,984 — model_loader — Loading YOLO models on CPU...
+[INFO] 2025-11-19 15:13:27,193 — model_loader — Models loaded successfully.
+[INFO] 2025-11-19 15:13:27,194 — __main__ — Models loaded successfully.
+[INFO] 2025-11-19 15:13:27,323 — __main__ — Database tables initialized.
+[INFO] 2025-11-19 15:13:27,328 — sentence_transformers.SentenceTransformer — Use pytorch device_name: cpu
+[INFO] 2025-11-19 15:13:27,330 — sentence_transformers.SentenceTransformer — Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[WARNING] 2025-11-19 15:13:31,848 — werkzeug —  * Debugger is active!
+[INFO] 2025-11-19 15:13:31,861 — werkzeug —  * Debugger PIN: 124-983-047
+[ERROR] 2025-11-19 15:13:33,195 — __main__ — Unexpected error in /detect
+Traceback (most recent call last):
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\engine\base.py", line 1967, in _exec_single_context
+    self.dialect.do_execute(
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\engine\default.py", line 951, in do_execute
+    cursor.execute(statement, parameters)
+psycopg2.errors.UndefinedColumn: column "user_id" of relation "detection" does not exist
+LINE 1: INSERT INTO detection (id, user_id, type, params, routing, t...
+                                   ^
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Files\Intern\ML-Project\app.py", line 177, in detect
+    dept = Department.query.filter_by(name=dept_name).first()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\query.py", line 2759, in first
+    return self.limit(1)._iter().first()  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\query.py", line 2857, in _iter
+    result: Union[ScalarResult[_T], Result[_T]] = self.session.execute(
+                                                  ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\session.py", line 2351, in execute
+    return self._execute_internal(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\session.py", line 2228, in _execute_internal
+    ) = compile_state_cls.orm_pre_session_exec(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\context.py", line 577, in orm_pre_session_exec
+    session._autoflush()
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\session.py", line 3051, in _autoflush
+    raise e.with_traceback(sys.exc_info()[2])
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\session.py", line 3040, in _autoflush
+    self.flush()
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\session.py", line 4331, in flush
+    self._flush(objects)
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\session.py", line 4466, in _flush
+    with util.safe_reraise():
+         ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\util\langhelpers.py", line 224, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\session.py", line 4427, in _flush
+    flush_context.execute()
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\unitofwork.py", line 466, in execute
+    rec.execute(self)
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\unitofwork.py", line 642, in execute
+    util.preloaded.orm_persistence.save_obj(
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\persistence.py", line 93, in save_obj
+    _emit_insert_statements(
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\persistence.py", line 1048, in _emit_insert_statements
+    result = connection.execute(
+             ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\engine\base.py", line 1419, in execute
+    return meth(
+           ^^^^^
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\sql\elements.py", line 526, in _execute_on_connection
+    return connection._execute_clauseelement(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\engine\base.py", line 1641, in _execute_clauseelement
+    ret = self._execute_context(
+          ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\engine\base.py", line 1846, in _execute_context
+    return self._exec_single_context(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\engine\base.py", line 1986, in _exec_single_context
+    self._handle_dbapi_exception(
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\engine\base.py", line 2355, in _handle_dbapi_exception
+    raise sqlalchemy_exception.with_traceback(exc_info[2]) from e
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\engine\base.py", line 1967, in _exec_single_context
+    self.dialect.do_execute(
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\engine\default.py", line 951, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.ProgrammingError: (raised as a result of Query-invoked autoflush; consider using a session.no_autoflush block if this flush is occurring prematurely)
+(psycopg2.errors.UndefinedColumn) column "user_id" of relation "detection" does not exist
+LINE 1: INSERT INTO detection (id, user_id, type, params, routing, t...
+                                   ^
+
+[SQL: INSERT INTO detection (id, user_id, type, params, routing, timestamp) VALUES (%(id)s, %(user_id)s, %(type)s, %(params)s::JSON, %(routing)s::JSON, %(timestamp)s)]
+[parameters: {'id': 'a3462522-bb3c-42bb-9474-43be4b60d39b', 'user_id': None, 'type': 'waste', 'params': '{"detections": [{"xyxy": [184.546630859375, 212.54483032226562, 502.1412353515625, 427.4015197753906], "conf": 0.3083190321922302, "class_id": 4, "cl ... (574 characters truncated) ... idual", "area_px": 68237.32530936599, "area_pct": 0.1665950324935693, "density": 1.0, "proximity_pct": 0.3321851253509521}, "waste_type": "residual"}', 'routing': '{"departments": ["Ward Office"], "priority": "high", "scores": {"Waste Management": 0.3229835033416748, "Construction": 0.6736704111099243, "Municipa ... (20 characters truncated) ...  0.18561817705631256, "Electricity": 1.0, "Water": 0.23837058246135712, "Ward Office": 0.523842990398407}, "auto_assigned_department": "Ward Office"}', 'timestamp': '20251119T092833Z'}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+[INFO] 2025-11-19 15:13:33,225 — werkzeug — 127.0.0.1 - - [19/Nov/2025 15:13:33] "[35m[1mPOST /detect HTTP/1.1[0m" 500 -
+[INFO] 2025-11-19 15:26:18,652 — werkzeug —  * Detected change in 'C:\\Files\\Intern\\ML-Project\\app.py', reloading
+[INFO] 2025-11-19 15:26:18,661 — werkzeug —  * Detected change in 'C:\\Files\\Intern\\ML-Project\\app.py', reloading
+[INFO] 2025-11-19 15:26:23,135 — werkzeug —  * Restarting with watchdog (windowsapi)
+[INFO] 2025-11-19 15:27:52,291 — root — Logging initialized successfully.
+[INFO] 2025-11-19 15:27:52,294 — __main__ — Starting SmartCity server...
+[INFO] 2025-11-19 15:27:52,296 — __main__ — Initializing YOLO models...
+[INFO] 2025-11-19 15:27:52,296 — model_loader — Loading YOLO models on CPU...
+[INFO] 2025-11-19 15:27:52,810 — model_loader — Models loaded successfully.
+[INFO] 2025-11-19 15:27:52,810 — __main__ — Models loaded successfully.
+[INFO] 2025-11-19 15:27:53,085 — __main__ — Database tables initialized.
+[INFO] 2025-11-19 15:27:53,096 — sentence_transformers.SentenceTransformer — Use pytorch device_name: cpu
+[INFO] 2025-11-19 15:27:53,097 — sentence_transformers.SentenceTransformer — Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[INFO] 2025-11-19 15:27:58,967 — __main__ — Database reset: all tables dropped and recreated.
+[INFO] 2025-11-19 15:27:59,047 — werkzeug — [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.101.7:5000
+[INFO] 2025-11-19 15:27:59,048 — werkzeug — [33mPress CTRL+C to quit[0m
+[INFO] 2025-11-19 15:27:59,091 — werkzeug —  * Restarting with watchdog (windowsapi)
+[INFO] 2025-11-19 15:28:33,265 — root — Logging initialized successfully.
+[INFO] 2025-11-19 15:28:33,266 — __main__ — Starting SmartCity server...
+[INFO] 2025-11-19 15:28:33,268 — __main__ — Initializing YOLO models...
+[INFO] 2025-11-19 15:28:33,268 — model_loader — Loading YOLO models on CPU...
+[INFO] 2025-11-19 15:28:33,656 — model_loader — Models loaded successfully.
+[INFO] 2025-11-19 15:28:33,658 — __main__ — Models loaded successfully.
+[INFO] 2025-11-19 15:28:33,871 — __main__ — Database tables initialized.
+[INFO] 2025-11-19 15:28:33,874 — sentence_transformers.SentenceTransformer — Use pytorch device_name: cpu
+[INFO] 2025-11-19 15:28:33,875 — sentence_transformers.SentenceTransformer — Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[INFO] 2025-11-19 15:28:39,323 — __main__ — Database reset: all tables dropped and recreated.
+[WARNING] 2025-11-19 15:28:39,354 — werkzeug —  * Debugger is active!
+[INFO] 2025-11-19 15:28:39,363 — werkzeug —  * Debugger PIN: 124-983-047
+[INFO] 2025-11-19 15:33:43,055 — werkzeug —  * Detected change in 'C:\\Files\\Intern\\ML-Project\\app.py', reloading
+[INFO] 2025-11-19 15:33:43,103 — werkzeug —  * Detected change in 'C:\\Files\\Intern\\ML-Project\\app.py', reloading
+[INFO] 2025-11-19 15:33:47,665 — werkzeug —  * Restarting with watchdog (windowsapi)
+[INFO] 2025-11-19 15:34:50,307 — root — Logging initialized successfully.
+[INFO] 2025-11-19 15:34:50,308 — __main__ — Starting SmartCity server...
+[INFO] 2025-11-19 15:34:50,311 — __main__ — Initializing YOLO models...
+[INFO] 2025-11-19 15:34:50,311 — model_loader — Loading YOLO models on CPU...
+[INFO] 2025-11-19 15:34:50,783 — model_loader — Models loaded successfully.
+[INFO] 2025-11-19 15:34:50,784 — __main__ — Models loaded successfully.
+[INFO] 2025-11-19 15:34:50,892 — sentence_transformers.SentenceTransformer — Use pytorch device_name: cpu
+[INFO] 2025-11-19 15:34:50,893 — sentence_transformers.SentenceTransformer — Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[INFO] 2025-11-19 15:34:57,641 — __main__ — Database reset: all tables dropped and recreated.
+[INFO] 2025-11-19 15:34:57,723 — werkzeug — [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.101.7:5000
+[INFO] 2025-11-19 15:34:57,725 — werkzeug — [33mPress CTRL+C to quit[0m
+[INFO] 2025-11-19 15:34:57,771 — werkzeug —  * Restarting with watchdog (windowsapi)
+[INFO] 2025-11-19 15:35:41,960 — root — Logging initialized successfully.
+[INFO] 2025-11-19 15:35:41,962 — __main__ — Starting SmartCity server...
+[INFO] 2025-11-19 15:35:41,964 — __main__ — Initializing YOLO models...
+[INFO] 2025-11-19 15:35:41,965 — model_loader — Loading YOLO models on CPU...
+[INFO] 2025-11-19 15:35:42,272 — model_loader — Models loaded successfully.
+[INFO] 2025-11-19 15:35:42,273 — __main__ — Models loaded successfully.
+[INFO] 2025-11-19 15:35:42,278 — sentence_transformers.SentenceTransformer — Use pytorch device_name: cpu
+[INFO] 2025-11-19 15:35:42,280 — sentence_transformers.SentenceTransformer — Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[INFO] 2025-11-19 15:35:48,415 — __main__ — Database reset: all tables dropped and recreated.
+[WARNING] 2025-11-19 15:35:48,459 — werkzeug —  * Debugger is active!
+[INFO] 2025-11-19 15:35:48,471 — werkzeug —  * Debugger PIN: 124-983-047
+[INFO] 2025-11-19 15:35:48,738 — werkzeug — 127.0.0.1 - - [19/Nov/2025 15:35:48] "GET /health HTTP/1.1" 200 -
+[INFO] 2025-11-19 15:35:50,268 — werkzeug — 127.0.0.1 - - [19/Nov/2025 15:35:50] "POST /detect HTTP/1.1" 200 -
+[INFO] 2025-11-19 15:38:46,256 — werkzeug —  * Detected change in 'C:\\Files\\Intern\\ML-Project\\models\\__init__.py', reloading
+[INFO] 2025-11-19 15:38:46,258 — werkzeug —  * Detected change in 'C:\\Files\\Intern\\ML-Project\\models\\__init__.py', reloading
+[INFO] 2025-11-19 15:38:49,961 — werkzeug —  * Restarting with watchdog (windowsapi)
+[INFO] 2025-11-19 15:39:23,729 — root — Logging initialized successfully.
+[INFO] 2025-11-19 15:39:23,730 — __main__ — Starting SmartCity server...
+[INFO] 2025-11-19 15:39:23,732 — __main__ — Initializing YOLO models...
+[INFO] 2025-11-19 15:39:23,732 — model_loader — Loading YOLO models on CPU...
+[INFO] 2025-11-19 15:39:23,967 — model_loader — Models loaded successfully.
+[INFO] 2025-11-19 15:39:23,968 — __main__ — Models loaded successfully.
+[INFO] 2025-11-19 15:39:23,971 — sentence_transformers.SentenceTransformer — Use pytorch device_name: cpu
+[INFO] 2025-11-19 15:39:23,972 — sentence_transformers.SentenceTransformer — Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[INFO] 2025-11-19 15:40:15,952 — root — Logging initialized successfully.
+[INFO] 2025-11-19 15:40:15,953 — __main__ — Starting SmartCity server...
+[INFO] 2025-11-19 15:40:15,955 — __main__ — Initializing YOLO models...
+[INFO] 2025-11-19 15:40:15,955 — model_loader — Loading YOLO models on CPU...
+[INFO] 2025-11-19 15:40:16,158 — model_loader — Models loaded successfully.
+[INFO] 2025-11-19 15:40:16,158 — __main__ — Models loaded successfully.
+[INFO] 2025-11-19 15:40:16,162 — sentence_transformers.SentenceTransformer — Use pytorch device_name: cpu
+[INFO] 2025-11-19 15:40:16,162 — sentence_transformers.SentenceTransformer — Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[INFO] 2025-11-19 15:40:21,742 — __main__ — Database reset: all tables dropped and recreated.
+[INFO] 2025-11-19 15:40:21,798 — werkzeug — [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.101.7:5000
+[INFO] 2025-11-19 15:40:21,799 — werkzeug — [33mPress CTRL+C to quit[0m
+[INFO] 2025-11-19 15:40:21,840 — werkzeug —  * Restarting with watchdog (windowsapi)
+[INFO] 2025-11-19 15:41:01,934 — root — Logging initialized successfully.
+[INFO] 2025-11-19 15:41:01,935 — __main__ — Starting SmartCity server...
+[INFO] 2025-11-19 15:41:01,940 — __main__ — Initializing YOLO models...
+[INFO] 2025-11-19 15:41:01,940 — model_loader — Loading YOLO models on CPU...
+[INFO] 2025-11-19 15:41:02,234 — model_loader — Models loaded successfully.
+[INFO] 2025-11-19 15:41:02,235 — __main__ — Models loaded successfully.
+[INFO] 2025-11-19 15:41:02,241 — sentence_transformers.SentenceTransformer — Use pytorch device_name: cpu
+[INFO] 2025-11-19 15:41:02,242 — sentence_transformers.SentenceTransformer — Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[INFO] 2025-11-19 15:41:08,849 — __main__ — Database reset: all tables dropped and recreated.
+[WARNING] 2025-11-19 15:41:08,904 — werkzeug —  * Debugger is active!
+[INFO] 2025-11-19 15:41:08,919 — werkzeug —  * Debugger PIN: 124-983-047
+[INFO] 2025-11-19 15:41:09,182 — werkzeug — 127.0.0.1 - - [19/Nov/2025 15:41:09] "GET /health HTTP/1.1" 200 -
+[INFO] 2025-11-19 15:41:17,142 — werkzeug — 127.0.0.1 - - [19/Nov/2025 15:41:17] "POST /detect HTTP/1.1" 200 -
+[INFO] 2025-11-19 15:41:58,893 — werkzeug — 127.0.0.1 - - [19/Nov/2025 15:41:58] "POST /detect HTTP/1.1" 200 -
+[INFO] 2025-11-19 15:44:48,970 — werkzeug —  * Detected change in 'C:\\Files\\Intern\\ML-Project\\create_tables.py', reloading
+[INFO] 2025-11-19 15:44:51,984 — werkzeug —  * Restarting with watchdog (windowsapi)
+[INFO] 2025-11-19 15:45:26,172 — root — Logging initialized successfully.
+[INFO] 2025-11-19 15:45:26,173 — __main__ — Starting SmartCity server...
+[INFO] 2025-11-19 15:45:26,174 — __main__ — Initializing YOLO models...
+[INFO] 2025-11-19 15:45:26,175 — model_loader — Loading YOLO models on CPU...
+[INFO] 2025-11-19 15:45:26,305 — model_loader — Models loaded successfully.
+[INFO] 2025-11-19 15:45:26,305 — __main__ — Models loaded successfully.
+[INFO] 2025-11-19 15:45:26,317 — sentence_transformers.SentenceTransformer — Use pytorch device_name: cpu
+[INFO] 2025-11-19 15:45:26,317 — sentence_transformers.SentenceTransformer — Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[INFO] 2025-11-19 15:45:32,294 — __main__ — Database reset: all tables dropped and recreated.
+[WARNING] 2025-11-19 15:45:32,341 — werkzeug —  * Debugger is active!
+[INFO] 2025-11-19 15:45:32,347 — werkzeug —  * Debugger PIN: 124-983-047
+[INFO] 2025-11-19 15:46:30,482 — root — Logging initialized successfully.
+[INFO] 2025-11-19 15:46:30,484 — app — Starting SmartCity server...
+[INFO] 2025-11-19 15:46:30,492 — app — Initializing YOLO models...
+[INFO] 2025-11-19 15:46:30,493 — model_loader — Loading YOLO models on CPU...
+[INFO] 2025-11-19 15:46:30,819 — model_loader — Models loaded successfully.
+[INFO] 2025-11-19 15:46:30,820 — app — Models loaded successfully.
+[INFO] 2025-11-19 15:46:30,825 — sentence_transformers.SentenceTransformer — Use pytorch device_name: cpu
+[INFO] 2025-11-19 15:46:30,826 — sentence_transformers.SentenceTransformer — Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[INFO] 2025-11-19 15:46:34,299 — werkzeug — 127.0.0.1 - - [19/Nov/2025 15:46:34] "GET /health HTTP/1.1" 200 -
+[INFO] 2025-11-19 15:46:40,415 — werkzeug — 127.0.0.1 - - [19/Nov/2025 15:46:40] "POST /detect HTTP/1.1" 200 -
+[INFO] 2025-11-19 15:49:22,922 — werkzeug —  * Detected change in 'C:\\Files\\Intern\\ML-Project\\models\\tag.py', reloading
+[INFO] 2025-11-19 15:49:22,924 — werkzeug —  * Detected change in 'C:\\Files\\Intern\\ML-Project\\models\\tag.py', reloading
+[INFO] 2025-11-19 15:49:26,136 — werkzeug —  * Restarting with watchdog (windowsapi)
+[INFO] 2025-11-19 15:49:59,339 — root — Logging initialized successfully.
+[INFO] 2025-11-19 15:49:59,339 — __main__ — Starting SmartCity server...
+[INFO] 2025-11-19 15:49:59,342 — __main__ — Initializing YOLO models...
+[INFO] 2025-11-19 15:49:59,343 — model_loader — Loading YOLO models on CPU...
+[INFO] 2025-11-19 15:49:59,697 — model_loader — Models loaded successfully.
+[INFO] 2025-11-19 15:49:59,697 — __main__ — Models loaded successfully.
+[INFO] 2025-11-19 15:49:59,701 — sentence_transformers.SentenceTransformer — Use pytorch device_name: cpu
+[INFO] 2025-11-19 15:49:59,702 — sentence_transformers.SentenceTransformer — Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[INFO] 2025-11-19 15:50:07,874 — __main__ — Database reset: all tables dropped and recreated.
+[WARNING] 2025-11-19 15:50:07,916 — werkzeug —  * Debugger is active!
+[INFO] 2025-11-19 15:50:07,924 — werkzeug —  * Debugger PIN: 124-983-047
+[INFO] 2025-11-19 15:51:25,450 — werkzeug —  * Detected change in 'C:\\Files\\Intern\\ML-Project\\models\\detection.py', reloading
+[INFO] 2025-11-19 15:51:25,451 — werkzeug —  * Detected change in 'C:\\Files\\Intern\\ML-Project\\models\\detection.py', reloading
+[INFO] 2025-11-19 15:51:27,714 — werkzeug —  * Restarting with watchdog (windowsapi)
+[INFO] 2025-11-19 15:51:55,993 — root — Logging initialized successfully.
+[INFO] 2025-11-19 15:51:55,995 — __main__ — Starting SmartCity server...
+[INFO] 2025-11-19 15:51:56,002 — __main__ — Initializing YOLO models...
+[INFO] 2025-11-19 15:51:56,003 — model_loader — Loading YOLO models on CPU...
+[INFO] 2025-11-19 15:51:56,373 — model_loader — Models loaded successfully.
+[INFO] 2025-11-19 15:51:56,374 — __main__ — Models loaded successfully.
+[INFO] 2025-11-19 15:51:56,380 — sentence_transformers.SentenceTransformer — Use pytorch device_name: cpu
+[INFO] 2025-11-19 15:51:56,380 — sentence_transformers.SentenceTransformer — Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[INFO] 2025-11-19 15:52:01,557 — __main__ — Database reset: all tables dropped and recreated.
+[WARNING] 2025-11-19 15:52:01,579 — werkzeug —  * Debugger is active!
+[INFO] 2025-11-19 15:52:01,586 — werkzeug —  * Debugger PIN: 124-983-047
+[INFO] 2025-11-19 15:52:04,854 — werkzeug —  * Detected change in 'C:\\Files\\Intern\\ML-Project\\models\\relations.py', reloading
+[INFO] 2025-11-19 15:52:04,857 — werkzeug —  * Detected change in 'C:\\Files\\Intern\\ML-Project\\models\\relations.py', reloading
+[INFO] 2025-11-19 15:52:06,660 — werkzeug —  * Restarting with watchdog (windowsapi)
+[INFO] 2025-11-19 15:52:31,105 — root — Logging initialized successfully.
+[INFO] 2025-11-19 15:52:31,106 — __main__ — Starting SmartCity server...
+[INFO] 2025-11-19 15:52:31,109 — __main__ — Initializing YOLO models...
+[INFO] 2025-11-19 15:52:31,110 — model_loader — Loading YOLO models on CPU...
+[INFO] 2025-11-19 15:52:31,217 — model_loader — Models loaded successfully.
+[INFO] 2025-11-19 15:52:31,218 — __main__ — Models loaded successfully.
+[INFO] 2025-11-19 15:52:31,220 — sentence_transformers.SentenceTransformer — Use pytorch device_name: cpu
+[INFO] 2025-11-19 15:52:31,220 — sentence_transformers.SentenceTransformer — Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[INFO] 2025-11-19 15:52:52,173 — __main__ — Database reset: all tables dropped and recreated.
+[WARNING] 2025-11-19 15:52:52,204 — werkzeug —  * Debugger is active!
+[INFO] 2025-11-19 15:52:52,211 — werkzeug —  * Debugger PIN: 124-983-047
+[INFO] 2025-11-19 15:53:53,400 — werkzeug —  * Detected change in 'C:\\Files\\Intern\\ML-Project\\models\\user.py', reloading
+[INFO] 2025-11-19 15:53:53,403 — werkzeug —  * Detected change in 'C:\\Files\\Intern\\ML-Project\\models\\user.py', reloading
+[INFO] 2025-11-19 15:53:53,405 — werkzeug —  * Detected change in 'C:\\Files\\Intern\\ML-Project\\models\\user.py', reloading
+[INFO] 2025-11-19 15:53:55,875 — werkzeug —  * Restarting with watchdog (windowsapi)
+[INFO] 2025-11-19 15:54:23,857 — root — Logging initialized successfully.
+[INFO] 2025-11-19 15:54:23,857 — __main__ — Starting SmartCity server...
+[INFO] 2025-11-19 15:54:23,860 — __main__ — Initializing YOLO models...
+[INFO] 2025-11-19 15:54:23,861 — model_loader — Loading YOLO models on CPU...
+[INFO] 2025-11-19 15:54:23,995 — model_loader — Models loaded successfully.
+[INFO] 2025-11-19 15:54:23,996 — __main__ — Models loaded successfully.
+[INFO] 2025-11-19 15:54:23,999 — sentence_transformers.SentenceTransformer — Use pytorch device_name: cpu
+[INFO] 2025-11-19 15:54:23,999 — sentence_transformers.SentenceTransformer — Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[INFO] 2025-11-19 15:55:03,186 — root — Logging initialized successfully.
+[INFO] 2025-11-19 15:55:03,187 — __main__ — Starting SmartCity server...
+[INFO] 2025-11-19 15:55:03,190 — __main__ — Initializing YOLO models...
+[INFO] 2025-11-19 15:55:03,190 — model_loader — Loading YOLO models on CPU...
+[INFO] 2025-11-19 15:55:03,422 — model_loader — Models loaded successfully.
+[INFO] 2025-11-19 15:55:03,423 — __main__ — Models loaded successfully.
+[INFO] 2025-11-19 15:55:03,428 — sentence_transformers.SentenceTransformer — Use pytorch device_name: cpu
+[INFO] 2025-11-19 15:55:03,428 — sentence_transformers.SentenceTransformer — Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[INFO] 2025-11-19 15:55:11,959 — __main__ — Database reset: all tables dropped and recreated.
+[INFO] 2025-11-19 15:55:11,999 — werkzeug — [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.101.7:5000
+[INFO] 2025-11-19 15:55:12,000 — werkzeug — [33mPress CTRL+C to quit[0m
+[INFO] 2025-11-19 15:55:12,023 — werkzeug —  * Restarting with watchdog (windowsapi)
+[INFO] 2025-11-19 15:55:58,867 — root — Logging initialized successfully.
+[INFO] 2025-11-19 15:55:58,867 — __main__ — Starting SmartCity server...
+[INFO] 2025-11-19 15:55:58,872 — __main__ — Initializing YOLO models...
+[INFO] 2025-11-19 15:55:58,873 — model_loader — Loading YOLO models on CPU...
+[INFO] 2025-11-19 15:55:59,303 — model_loader — Models loaded successfully.
+[INFO] 2025-11-19 15:55:59,304 — __main__ — Models loaded successfully.
+[INFO] 2025-11-19 15:55:59,308 — sentence_transformers.SentenceTransformer — Use pytorch device_name: cpu
+[INFO] 2025-11-19 15:55:59,309 — sentence_transformers.SentenceTransformer — Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[INFO] 2025-11-19 15:56:06,255 — __main__ — Database reset: all tables dropped and recreated.
+[WARNING] 2025-11-19 15:56:06,304 — werkzeug —  * Debugger is active!
+[INFO] 2025-11-19 15:56:06,315 — werkzeug —  * Debugger PIN: 124-983-047
+[INFO] 2025-11-19 15:56:06,496 — werkzeug — 127.0.0.1 - - [19/Nov/2025 15:56:06] "GET /health HTTP/1.1" 200 -
+[INFO] 2025-11-19 15:56:12,832 — werkzeug — 127.0.0.1 - - [19/Nov/2025 15:56:12] "POST /detect HTTP/1.1" 200 -
+[INFO] 2025-11-19 15:59:07,419 — werkzeug — 127.0.0.1 - - [19/Nov/2025 15:59:07] "GET /health HTTP/1.1" 200 -
+[INFO] 2025-11-19 15:59:12,479 — werkzeug — 127.0.0.1 - - [19/Nov/2025 15:59:12] "POST /detect HTTP/1.1" 200 -
+[INFO] 2025-11-19 15:59:17,324 — werkzeug — 127.0.0.1 - - [19/Nov/2025 15:59:17] "[33mGET /storage/annotated/a924351a-6d73-4bbb-b2f9-225e46005cdc_annotated.jpg HTTP/1.1[0m" 404 -
+[INFO] 2025-11-20 10:29:09,349 — root — Logging initialized successfully.
+[INFO] 2025-11-20 10:29:09,351 — __main__ — Starting SmartCity server...
+[INFO] 2025-11-20 10:29:09,352 — __main__ — Initializing YOLO models...
+[INFO] 2025-11-20 10:29:09,353 — model_loader — Loading YOLO models on CPU...
+[INFO] 2025-11-20 10:29:09,638 — model_loader — Models loaded successfully.
+[INFO] 2025-11-20 10:29:09,638 — __main__ — Models loaded successfully.
+[INFO] 2025-11-20 10:29:09,654 — sentence_transformers.SentenceTransformer — Use pytorch device_name: cpu
+[INFO] 2025-11-20 10:29:09,655 — sentence_transformers.SentenceTransformer — Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[INFO] 2025-11-20 10:29:35,820 — __main__ — Database reset: all tables dropped and recreated.
+[INFO] 2025-11-20 10:29:35,909 — werkzeug — [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.101.7:5000
+[INFO] 2025-11-20 10:29:35,910 — werkzeug — [33mPress CTRL+C to quit[0m
+[INFO] 2025-11-20 10:29:35,947 — werkzeug —  * Restarting with watchdog (windowsapi)
+[INFO] 2025-11-20 10:30:07,300 — root — Logging initialized successfully.
+[INFO] 2025-11-20 10:30:07,301 — __main__ — Starting SmartCity server...
+[INFO] 2025-11-20 10:30:07,306 — __main__ — Initializing YOLO models...
+[INFO] 2025-11-20 10:30:07,306 — model_loader — Loading YOLO models on CPU...
+[INFO] 2025-11-20 10:30:07,552 — model_loader — Models loaded successfully.
+[INFO] 2025-11-20 10:30:07,552 — __main__ — Models loaded successfully.
+[INFO] 2025-11-20 10:30:07,556 — sentence_transformers.SentenceTransformer — Use pytorch device_name: cpu
+[INFO] 2025-11-20 10:30:07,556 — sentence_transformers.SentenceTransformer — Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[INFO] 2025-11-20 10:30:13,425 — __main__ — Database reset: all tables dropped and recreated.
+[WARNING] 2025-11-20 10:30:13,484 — werkzeug —  * Debugger is active!
+[INFO] 2025-11-20 10:30:13,509 — werkzeug —  * Debugger PIN: 124-983-047
+[INFO] 2025-11-20 10:30:13,713 — werkzeug — 127.0.0.1 - - [20/Nov/2025 10:30:13] "GET /health HTTP/1.1" 200 -
+[INFO] 2025-11-20 10:30:30,745 — werkzeug — 127.0.0.1 - - [20/Nov/2025 10:30:30] "POST /detect HTTP/1.1" 200 -
+[INFO] 2025-11-20 10:30:34,293 — werkzeug — 127.0.0.1 - - [20/Nov/2025 10:30:34] "[33mGET /storage/annotated/a924351a-6d73-4bbb-b2f9-225e46005cdc_annotated.jpg HTTP/1.1[0m" 404 -
+[INFO] 2025-11-20 13:14:46,084 — root — Logging initialized successfully.
+[INFO] 2025-11-20 13:14:46,087 — __main__ — Starting SmartCity server...
+[INFO] 2025-11-20 13:14:46,092 — __main__ — Initializing YOLO models...
+[INFO] 2025-11-20 13:14:46,092 — model_loader — Loading YOLO models on CPU...
+[INFO] 2025-11-20 13:14:46,649 — model_loader — Models loaded successfully.
+[INFO] 2025-11-20 13:14:46,650 — __main__ — Models loaded successfully.
+[INFO] 2025-11-20 13:14:46,678 — sentence_transformers.SentenceTransformer — Use pytorch device_name: cpu
+[INFO] 2025-11-20 13:14:46,679 — sentence_transformers.SentenceTransformer — Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[INFO] 2025-11-20 13:14:53,555 — __main__ — Database reset: all tables dropped and recreated.
+[INFO] 2025-11-20 13:14:53,642 — werkzeug — [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.101.7:5000
+[INFO] 2025-11-20 13:14:53,644 — werkzeug — [33mPress CTRL+C to quit[0m
+[INFO] 2025-11-20 13:14:53,701 — werkzeug —  * Restarting with watchdog (windowsapi)
+[INFO] 2025-11-20 13:15:38,232 — root — Logging initialized successfully.
+[INFO] 2025-11-20 13:15:38,232 — __main__ — Starting SmartCity server...
+[INFO] 2025-11-20 13:15:38,235 — __main__ — Initializing YOLO models...
+[INFO] 2025-11-20 13:15:38,235 — model_loader — Loading YOLO models on CPU...
+[INFO] 2025-11-20 13:15:38,414 — model_loader — Models loaded successfully.
+[INFO] 2025-11-20 13:15:38,415 — __main__ — Models loaded successfully.
+[INFO] 2025-11-20 13:15:38,420 — sentence_transformers.SentenceTransformer — Use pytorch device_name: cpu
+[INFO] 2025-11-20 13:15:38,420 — sentence_transformers.SentenceTransformer — Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[INFO] 2025-11-20 13:15:44,364 — __main__ — Database reset: all tables dropped and recreated.
+[WARNING] 2025-11-20 13:15:44,437 — werkzeug —  * Debugger is active!
+[INFO] 2025-11-20 13:15:44,461 — werkzeug —  * Debugger PIN: 124-983-047
+[INFO] 2025-11-20 13:16:38,711 — werkzeug —  * Detected change in 'C:\\Files\\Intern\\ML-Project\\utils\\base_data.py', reloading
+[INFO] 2025-11-20 13:16:41,571 — werkzeug —  * Restarting with watchdog (windowsapi)
+[INFO] 2025-11-20 13:17:13,386 — root — Logging initialized successfully.
+[INFO] 2025-11-20 13:17:13,386 — __main__ — Starting SmartCity server...
+[INFO] 2025-11-20 13:17:13,388 — __main__ — Initializing YOLO models...
+[INFO] 2025-11-20 13:17:13,388 — model_loader — Loading YOLO models on CPU...
+[INFO] 2025-11-20 13:17:13,604 — model_loader — Models loaded successfully.
+[INFO] 2025-11-20 13:17:13,605 — __main__ — Models loaded successfully.
+[INFO] 2025-11-20 13:17:13,608 — sentence_transformers.SentenceTransformer — Use pytorch device_name: cpu
+[INFO] 2025-11-20 13:17:13,608 — sentence_transformers.SentenceTransformer — Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[INFO] 2025-11-20 13:17:18,910 — __main__ — Database reset: all tables dropped and recreated.
+[WARNING] 2025-11-20 13:17:18,944 — werkzeug —  * Debugger is active!
+[INFO] 2025-11-20 13:17:18,950 — werkzeug —  * Debugger PIN: 124-983-047
+[INFO] 2025-11-20 13:18:07,177 — root — Logging initialized successfully.
+[INFO] 2025-11-20 13:18:07,177 — __main__ — Starting SmartCity server...
+[INFO] 2025-11-20 13:18:07,179 — __main__ — Initializing YOLO models...
+[INFO] 2025-11-20 13:18:07,180 — model_loader — Loading YOLO models on CPU...
+[INFO] 2025-11-20 13:18:07,383 — model_loader — Models loaded successfully.
+[INFO] 2025-11-20 13:18:07,384 — __main__ — Models loaded successfully.
+[INFO] 2025-11-20 13:18:07,389 — sentence_transformers.SentenceTransformer — Use pytorch device_name: cpu
+[INFO] 2025-11-20 13:18:07,389 — sentence_transformers.SentenceTransformer — Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[INFO] 2025-11-20 13:18:12,769 — __main__ — Database reset + base data created.
+[INFO] 2025-11-20 13:18:12,818 — werkzeug — [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.101.7:5000
+[INFO] 2025-11-20 13:18:12,818 — werkzeug — [33mPress CTRL+C to quit[0m
+[INFO] 2025-11-20 13:18:12,842 — werkzeug —  * Restarting with watchdog (windowsapi)
+[INFO] 2025-11-20 13:18:37,506 — root — Logging initialized successfully.
+[INFO] 2025-11-20 13:18:37,506 — __main__ — Starting SmartCity server...
+[INFO] 2025-11-20 13:18:37,508 — __main__ — Initializing YOLO models...
+[INFO] 2025-11-20 13:18:37,508 — model_loader — Loading YOLO models on CPU...
+[INFO] 2025-11-20 13:18:37,662 — model_loader — Models loaded successfully.
+[INFO] 2025-11-20 13:18:37,662 — __main__ — Models loaded successfully.
+[INFO] 2025-11-20 13:18:37,664 — sentence_transformers.SentenceTransformer — Use pytorch device_name: cpu
+[INFO] 2025-11-20 13:18:37,665 — sentence_transformers.SentenceTransformer — Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[INFO] 2025-11-20 13:18:44,105 — __main__ — Database reset + base data created.
+[WARNING] 2025-11-20 13:18:44,151 — werkzeug —  * Debugger is active!
+[INFO] 2025-11-20 13:18:44,158 — werkzeug —  * Debugger PIN: 124-983-047
+[INFO] 2025-11-20 13:20:31,292 — werkzeug — 127.0.0.1 - - [20/Nov/2025 13:20:31] "GET /health HTTP/1.1" 200 -
+[INFO] 2025-11-20 13:20:49,178 — werkzeug — 127.0.0.1 - - [20/Nov/2025 13:20:49] "POST /detect HTTP/1.1" 200 -
+[INFO] 2025-11-20 13:22:48,972 — werkzeug — 127.0.0.1 - - [20/Nov/2025 13:22:48] "POST /detect HTTP/1.1" 200 -
+[INFO] 2025-11-20 13:25:34,357 — werkzeug — 127.0.0.1 - - [20/Nov/2025 13:25:34] "POST /detect HTTP/1.1" 200 -
+[INFO] 2025-11-20 13:25:58,892 — werkzeug — 127.0.0.1 - - [20/Nov/2025 13:25:58] "POST /detect HTTP/1.1" 200 -
+[INFO] 2025-11-20 13:26:43,987 — werkzeug — 127.0.0.1 - - [20/Nov/2025 13:26:43] "POST /detect HTTP/1.1" 200 -
+[ERROR] 2025-11-20 13:28:01,795 — __main__ — Unexpected error in /detect
+Traceback (most recent call last):
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\engine\base.py", line 1967, in _exec_single_context
+    self.dialect.do_execute(
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\engine\default.py", line 951, in do_execute
+    cursor.execute(statement, parameters)
+psycopg2.errors.ForeignKeyViolation: insert or update on table "detection" violates foreign key constraint "detection_user_id_fkey"
+DETAIL:  Key (user_id)=(web_usr_2) is not present in table "user".
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Files\Intern\ML-Project\app.py", line 151, in detect
+    create_detection_with_relations(
+  File "C:\Files\Intern\ML-Project\utils\save_detection.py", line 47, in create_detection_with_relations
+    dept = Department.query.filter_by(name=dept_name).first()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\query.py", line 2759, in first
+    return self.limit(1)._iter().first()  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\query.py", line 2857, in _iter
+    result: Union[ScalarResult[_T], Result[_T]] = self.session.execute(
+                                                  ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\session.py", line 2351, in execute
+    return self._execute_internal(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\session.py", line 2228, in _execute_internal
+    ) = compile_state_cls.orm_pre_session_exec(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\context.py", line 577, in orm_pre_session_exec
+    session._autoflush()
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\session.py", line 3051, in _autoflush
+    raise e.with_traceback(sys.exc_info()[2])
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\session.py", line 3040, in _autoflush
+    self.flush()
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\session.py", line 4331, in flush
+    self._flush(objects)
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\session.py", line 4466, in _flush
+    with util.safe_reraise():
+         ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\util\langhelpers.py", line 224, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\session.py", line 4427, in _flush
+    flush_context.execute()
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\unitofwork.py", line 466, in execute
+    rec.execute(self)
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\unitofwork.py", line 642, in execute
+    util.preloaded.orm_persistence.save_obj(
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\persistence.py", line 93, in save_obj
+    _emit_insert_statements(
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\persistence.py", line 1048, in _emit_insert_statements
+    result = connection.execute(
+             ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\engine\base.py", line 1419, in execute
+    return meth(
+           ^^^^^
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\sql\elements.py", line 526, in _execute_on_connection
+    return connection._execute_clauseelement(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\engine\base.py", line 1641, in _execute_clauseelement
+    ret = self._execute_context(
+          ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\engine\base.py", line 1846, in _execute_context
+    return self._exec_single_context(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\engine\base.py", line 1986, in _exec_single_context
+    self._handle_dbapi_exception(
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\engine\base.py", line 2355, in _handle_dbapi_exception
+    raise sqlalchemy_exception.with_traceback(exc_info[2]) from e
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\engine\base.py", line 1967, in _exec_single_context
+    self.dialect.do_execute(
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\engine\default.py", line 951, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.IntegrityError: (raised as a result of Query-invoked autoflush; consider using a session.no_autoflush block if this flush is occurring prematurely)
+(psycopg2.errors.ForeignKeyViolation) insert or update on table "detection" violates foreign key constraint "detection_user_id_fkey"
+DETAIL:  Key (user_id)=(web_usr_2) is not present in table "user".
+
+[SQL: INSERT INTO detection (id, user_id, type, params, routing, timestamp) VALUES (%(id)s, %(user_id)s, %(type)s, %(params)s::JSON, %(routing)s::JSON, %(timestamp)s)]
+[parameters: {'id': '855b08a8-6985-44a5-a1d4-7936fc4073ed', 'user_id': 'web_usr_2', 'type': 'waste', 'params': '{"detections": [{"xyxy": [184.546630859375, 212.54483032226562, 502.1412353515625, 427.4015197753906], "conf": 0.3083190321922302, "class_id": 4, "cl ... (574 characters truncated) ... idual", "area_px": 68237.32530936599, "area_pct": 0.1665950324935693, "density": 1.0, "proximity_pct": 0.3321851253509521}, "waste_type": "residual"}', 'routing': '{"departments": ["Ward Office"], "priority": "high", "scores": {"Waste Management": 0.1333606094121933, "Construction": 0.0, "Municipality": 0.589417 ... (19 characters truncated) ...  1.0, "Electricity": 0.41083207726478577, "Water": 0.7602011561393738, "Ward Office": 0.5033600926399231}, "auto_assigned_department": "Ward Office"}', 'timestamp': ''}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+[INFO] 2025-11-20 13:28:01,814 — werkzeug —  * Detected change in 'C:\\Users\\Saina\\anaconda3\\envs\\project\\Lib\\site-packages\\sqlalchemy\\orm\\query.py', reloading
+[INFO] 2025-11-20 13:28:01,874 — werkzeug — 127.0.0.1 - - [20/Nov/2025 13:28:01] "[35m[1mPOST /detect HTTP/1.1[0m" 500 -
+[INFO] 2025-11-20 13:28:01,875 — werkzeug —  * Detected change in 'C:\\Users\\Saina\\anaconda3\\envs\\project\\Lib\\site-packages\\sqlalchemy\\orm\\session.py', reloading
+[INFO] 2025-11-20 13:28:01,877 — werkzeug —  * Detected change in 'C:\\Users\\Saina\\anaconda3\\envs\\project\\Lib\\site-packages\\sqlalchemy\\orm\\context.py', reloading
+[INFO] 2025-11-20 13:28:01,878 — werkzeug —  * Detected change in 'C:\\Users\\Saina\\anaconda3\\envs\\project\\Lib\\site-packages\\sqlalchemy\\util\\langhelpers.py', reloading
+[INFO] 2025-11-20 13:28:01,879 — werkzeug —  * Detected change in 'C:\\Users\\Saina\\anaconda3\\envs\\project\\Lib\\site-packages\\sqlalchemy\\orm\\unitofwork.py', reloading
+[INFO] 2025-11-20 13:28:01,880 — werkzeug —  * Detected change in 'C:\\Users\\Saina\\anaconda3\\envs\\project\\Lib\\site-packages\\sqlalchemy\\orm\\persistence.py', reloading
+[INFO] 2025-11-20 13:28:01,882 — werkzeug —  * Detected change in 'C:\\Users\\Saina\\anaconda3\\envs\\project\\Lib\\site-packages\\sqlalchemy\\engine\\base.py', reloading
+[INFO] 2025-11-20 13:28:01,884 — werkzeug —  * Detected change in 'C:\\Users\\Saina\\anaconda3\\envs\\project\\Lib\\site-packages\\sqlalchemy\\sql\\elements.py', reloading
+[INFO] 2025-11-20 13:28:01,887 — werkzeug —  * Detected change in 'C:\\Users\\Saina\\anaconda3\\envs\\project\\Lib\\site-packages\\sqlalchemy\\engine\\default.py', reloading
+[INFO] 2025-11-20 13:28:08,798 — werkzeug —  * Restarting with watchdog (windowsapi)
+[INFO] 2025-11-20 13:28:59,051 — root — Logging initialized successfully.
+[INFO] 2025-11-20 13:28:59,052 — __main__ — Starting SmartCity server...
+[INFO] 2025-11-20 13:28:59,058 — __main__ — Initializing YOLO models...
+[INFO] 2025-11-20 13:28:59,060 — model_loader — Loading YOLO models on CPU...
+[INFO] 2025-11-20 13:28:59,557 — model_loader — Models loaded successfully.
+[INFO] 2025-11-20 13:28:59,558 — __main__ — Models loaded successfully.
+[INFO] 2025-11-20 13:28:59,583 — sentence_transformers.SentenceTransformer — Use pytorch device_name: cpu
+[INFO] 2025-11-20 13:28:59,584 — sentence_transformers.SentenceTransformer — Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[INFO] 2025-11-20 13:29:06,574 — __main__ — Database reset + base data created.
+[WARNING] 2025-11-20 13:29:06,620 — werkzeug —  * Debugger is active!
+[INFO] 2025-11-20 13:29:06,631 — werkzeug —  * Debugger PIN: 124-983-047
+[ERROR] 2025-11-20 13:29:10,490 — __main__ — Unexpected error in /detect
+Traceback (most recent call last):
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\engine\base.py", line 1967, in _exec_single_context
+    self.dialect.do_execute(
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\engine\default.py", line 951, in do_execute
+    cursor.execute(statement, parameters)
+psycopg2.errors.ForeignKeyViolation: insert or update on table "detection" violates foreign key constraint "detection_user_id_fkey"
+DETAIL:  Key (user_id)=(a1cf17eb-2fc1-4fd0-99f2-ffcd2b6d1dbd) is not present in table "user".
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Files\Intern\ML-Project\app.py", line 151, in detect
+    create_detection_with_relations(
+  File "C:\Files\Intern\ML-Project\utils\save_detection.py", line 47, in create_detection_with_relations
+    dept = Department.query.filter_by(name=dept_name).first()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\query.py", line 2759, in first
+    return self.limit(1)._iter().first()  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\query.py", line 2857, in _iter
+    result: Union[ScalarResult[_T], Result[_T]] = self.session.execute(
+                                                  ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\session.py", line 2351, in execute
+    return self._execute_internal(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\session.py", line 2228, in _execute_internal
+    ) = compile_state_cls.orm_pre_session_exec(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\context.py", line 577, in orm_pre_session_exec
+    session._autoflush()
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\session.py", line 3051, in _autoflush
+    raise e.with_traceback(sys.exc_info()[2])
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\session.py", line 3040, in _autoflush
+    self.flush()
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\session.py", line 4331, in flush
+    self._flush(objects)
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\session.py", line 4466, in _flush
+    with util.safe_reraise():
+         ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\util\langhelpers.py", line 224, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\session.py", line 4427, in _flush
+    flush_context.execute()
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\unitofwork.py", line 466, in execute
+    rec.execute(self)
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\unitofwork.py", line 642, in execute
+    util.preloaded.orm_persistence.save_obj(
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\persistence.py", line 93, in save_obj
+    _emit_insert_statements(
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\orm\persistence.py", line 1048, in _emit_insert_statements
+    result = connection.execute(
+             ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\engine\base.py", line 1419, in execute
+    return meth(
+           ^^^^^
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\sql\elements.py", line 526, in _execute_on_connection
+    return connection._execute_clauseelement(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\engine\base.py", line 1641, in _execute_clauseelement
+    ret = self._execute_context(
+          ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\engine\base.py", line 1846, in _execute_context
+    return self._exec_single_context(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\engine\base.py", line 1986, in _exec_single_context
+    self._handle_dbapi_exception(
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\engine\base.py", line 2355, in _handle_dbapi_exception
+    raise sqlalchemy_exception.with_traceback(exc_info[2]) from e
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\engine\base.py", line 1967, in _exec_single_context
+    self.dialect.do_execute(
+  File "C:\Users\Saina\anaconda3\envs\project\Lib\site-packages\sqlalchemy\engine\default.py", line 951, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.IntegrityError: (raised as a result of Query-invoked autoflush; consider using a session.no_autoflush block if this flush is occurring prematurely)
+(psycopg2.errors.ForeignKeyViolation) insert or update on table "detection" violates foreign key constraint "detection_user_id_fkey"
+DETAIL:  Key (user_id)=(a1cf17eb-2fc1-4fd0-99f2-ffcd2b6d1dbd) is not present in table "user".
+
+[SQL: INSERT INTO detection (id, user_id, type, params, routing, timestamp) VALUES (%(id)s, %(user_id)s, %(type)s, %(params)s::JSON, %(routing)s::JSON, %(timestamp)s)]
+[parameters: {'id': '2b55e382-9939-4ac8-ba85-25692c0d5433', 'user_id': 'a1cf17eb-2fc1-4fd0-99f2-ffcd2b6d1dbd', 'type': 'waste', 'params': '{"detections": [{"xyxy": [184.546630859375, 212.54483032226562, 502.1412353515625, 427.4015197753906], "conf": 0.3083190321922302, "class_id": 4, "cl ... (574 characters truncated) ... idual", "area_px": 68237.32530936599, "area_pct": 0.1665950324935693, "density": 1.0, "proximity_pct": 0.3321851253509521}, "waste_type": "residual"}', 'routing': '{"departments": ["Ward Office"], "priority": "high", "scores": {"Waste Management": 0.3802281618118286, "Construction": 0.5634568333625793, "Municipa ... (21 characters truncated) ... 0.2872011065483093, "Electricity": 0.27576860785484314, "Water": 0.17202261090278625, "Ward Office": 1.0}, "auto_assigned_department": "Ward Office"}', 'timestamp': ''}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+[INFO] 2025-11-20 13:29:10,530 — werkzeug — 127.0.0.1 - - [20/Nov/2025 13:29:10] "[35m[1mPOST /detect HTTP/1.1[0m" 500 -
+[INFO] 2025-11-20 13:30:36,317 — werkzeug — 127.0.0.1 - - [20/Nov/2025 13:30:36] "POST /detect HTTP/1.1" 200 -
+[INFO] 2025-11-20 13:31:34,520 — werkzeug — 127.0.0.1 - - [20/Nov/2025 13:31:34] "[33mGET /detections/cc6661cd-7214-4794-ad5a-1d4758985f76 HTTP/1.1[0m" 404 -
+[INFO] 2025-11-20 13:32:19,466 — werkzeug — 127.0.0.1 - - [20/Nov/2025 13:32:19] "GET /detections/e9485ff4-fd5f-42de-b6cd-be071082441c HTTP/1.1" 200 -
+[INFO] 2025-11-20 13:32:49,732 — werkzeug — 127.0.0.1 - - [20/Nov/2025 13:32:49] "GET /storage/annotated/e9485ff4-fd5f-42de-b6cd-be071082441c_annotated.jpg HTTP/1.1" 200 -
+[INFO] 2025-11-20 13:35:27,772 — werkzeug —  * Detected change in 'C:\\Files\\Intern\\ML-Project\\utils\\base_data.py', reloading
+[INFO] 2025-11-20 13:35:27,794 — werkzeug —  * Detected change in 'C:\\Files\\Intern\\ML-Project\\utils\\base_data.py', reloading
+[INFO] 2025-11-20 13:35:36,656 — werkzeug —  * Restarting with watchdog (windowsapi)
+[INFO] 2025-11-20 13:36:14,470 — root — Logging initialized successfully.
+[INFO] 2025-11-20 13:36:14,471 — __main__ — Starting SmartCity server...
+[INFO] 2025-11-20 13:36:14,474 — __main__ — Initializing YOLO models...
+[INFO] 2025-11-20 13:36:14,475 — model_loader — Loading YOLO models on CPU...
+[INFO] 2025-11-20 13:36:14,747 — model_loader — Models loaded successfully.
+[INFO] 2025-11-20 13:36:14,748 — __main__ — Models loaded successfully.
+[INFO] 2025-11-20 13:36:14,760 — sentence_transformers.SentenceTransformer — Use pytorch device_name: cpu
+[INFO] 2025-11-20 13:36:14,760 — sentence_transformers.SentenceTransformer — Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[INFO] 2025-11-20 13:36:21,180 — __main__ — Database reset + base data created.
+[WARNING] 2025-11-20 13:36:21,214 — werkzeug —  * Debugger is active!
+[INFO] 2025-11-20 13:36:21,220 — werkzeug —  * Debugger PIN: 124-983-047
+[INFO] 2025-11-20 13:36:21,494 — werkzeug —  * Detected change in 'C:\\Files\\Intern\\ML-Project\\utils\\base_data.py', reloading
+[INFO] 2025-11-20 13:36:21,495 — werkzeug —  * Detected change in 'C:\\Files\\Intern\\ML-Project\\utils\\base_data.py', reloading
+[INFO] 2025-11-20 13:36:24,344 — werkzeug —  * Restarting with watchdog (windowsapi)
+[INFO] 2025-11-20 13:36:49,056 — root — Logging initialized successfully.
+[INFO] 2025-11-20 13:36:49,056 — __main__ — Starting SmartCity server...
+[INFO] 2025-11-20 13:36:49,058 — __main__ — Initializing YOLO models...
+[INFO] 2025-11-20 13:36:49,059 — model_loader — Loading YOLO models on CPU...
+[INFO] 2025-11-20 13:36:49,200 — model_loader — Models loaded successfully.
+[INFO] 2025-11-20 13:36:49,201 — __main__ — Models loaded successfully.
+[INFO] 2025-11-20 13:36:49,204 — sentence_transformers.SentenceTransformer — Use pytorch device_name: cpu
+[INFO] 2025-11-20 13:36:49,204 — sentence_transformers.SentenceTransformer — Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[INFO] 2025-11-20 13:36:54,195 — __main__ — Database reset + base data created.
+[WARNING] 2025-11-20 13:36:54,214 — werkzeug —  * Debugger is active!
+[INFO] 2025-11-20 13:36:54,221 — werkzeug —  * Debugger PIN: 124-983-047
+[INFO] 2025-11-20 13:36:56,453 — werkzeug —  * Detected change in 'C:\\Files\\Intern\\ML-Project\\utils\\file_utils.py', reloading
+[INFO] 2025-11-20 13:36:56,454 — werkzeug —  * Detected change in 'C:\\Files\\Intern\\ML-Project\\utils\\file_utils.py', reloading
+[INFO] 2025-11-20 13:36:58,129 — werkzeug —  * Restarting with watchdog (windowsapi)
+[INFO] 2025-11-20 13:37:22,032 — root — Logging initialized successfully.
+[INFO] 2025-11-20 13:37:22,033 — __main__ — Starting SmartCity server...
+[INFO] 2025-11-20 13:37:22,035 — __main__ — Initializing YOLO models...
+[INFO] 2025-11-20 13:37:22,036 — model_loader — Loading YOLO models on CPU...
+[INFO] 2025-11-20 13:37:22,192 — model_loader — Models loaded successfully.
+[INFO] 2025-11-20 13:37:22,193 — __main__ — Models loaded successfully.
+[INFO] 2025-11-20 13:37:22,195 — sentence_transformers.SentenceTransformer — Use pytorch device_name: cpu
+[INFO] 2025-11-20 13:37:22,196 — sentence_transformers.SentenceTransformer — Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[INFO] 2025-11-20 13:37:27,298 — __main__ — Database reset + base data created.
+[WARNING] 2025-11-20 13:37:27,317 — werkzeug —  * Debugger is active!
+[INFO] 2025-11-20 13:37:27,322 — werkzeug —  * Debugger PIN: 124-983-047
+[INFO] 2025-11-20 13:37:27,883 — werkzeug —  * Detected change in 'C:\\Files\\Intern\\ML-Project\\app.py', reloading
+[INFO] 2025-11-20 13:37:27,884 — werkzeug —  * Detected change in 'C:\\Files\\Intern\\ML-Project\\app.py', reloading
+[INFO] 2025-11-20 13:37:30,196 — werkzeug —  * Restarting with watchdog (windowsapi)
+[INFO] 2025-11-20 13:37:53,303 — root — Logging initialized successfully.
+[INFO] 2025-11-20 13:37:53,304 — __main__ — Starting SmartCity server...
+[INFO] 2025-11-20 13:37:53,307 — __main__ — Initializing YOLO models...
+[INFO] 2025-11-20 13:37:53,307 — model_loader — Loading YOLO models on CPU...
+[INFO] 2025-11-20 13:37:53,482 — model_loader — Models loaded successfully.
+[INFO] 2025-11-20 13:37:53,482 — __main__ — Models loaded successfully.
+[INFO] 2025-11-20 13:37:53,485 — sentence_transformers.SentenceTransformer — Use pytorch device_name: cpu
+[INFO] 2025-11-20 13:37:53,485 — sentence_transformers.SentenceTransformer — Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[INFO] 2025-11-20 13:37:58,546 — __main__ — Database reset + base data created.
+[WARNING] 2025-11-20 13:37:58,567 — werkzeug —  * Debugger is active!
+[INFO] 2025-11-20 13:37:58,571 — werkzeug —  * Debugger PIN: 124-983-047
+[INFO] 2025-11-20 13:38:01,062 — werkzeug —  * Detected change in 'C:\\Files\\Intern\\ML-Project\\app.py', reloading
+[INFO] 2025-11-20 13:38:01,063 — werkzeug —  * Detected change in 'C:\\Files\\Intern\\ML-Project\\app.py', reloading
+[INFO] 2025-11-20 13:38:01,063 — werkzeug —  * Detected change in 'C:\\Files\\Intern\\ML-Project\\app.py', reloading
+[INFO] 2025-11-20 13:38:03,514 — werkzeug —  * Restarting with watchdog (windowsapi)
+[INFO] 2025-11-20 13:38:26,689 — root — Logging initialized successfully.
+[INFO] 2025-11-20 13:38:26,689 — __main__ — Starting SmartCity server...
+[INFO] 2025-11-20 13:38:26,693 — __main__ — Initializing YOLO models...
+[INFO] 2025-11-20 13:38:26,694 — model_loader — Loading YOLO models on CPU...
+[INFO] 2025-11-20 13:38:26,845 — model_loader — Models loaded successfully.
+[INFO] 2025-11-20 13:38:26,845 — __main__ — Models loaded successfully.
+[INFO] 2025-11-20 13:38:26,848 — sentence_transformers.SentenceTransformer — Use pytorch device_name: cpu
+[INFO] 2025-11-20 13:38:26,849 — sentence_transformers.SentenceTransformer — Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[INFO] 2025-11-20 13:38:32,016 — __main__ — Database reset + base data created.
+[WARNING] 2025-11-20 13:38:32,038 — werkzeug —  * Debugger is active!
+[INFO] 2025-11-20 13:38:32,045 — werkzeug —  * Debugger PIN: 124-983-047
+[INFO] 2025-11-20 16:00:28,612 — werkzeug —  * Detected change in 'C:\\Files\\Intern\\ML-Project\\utils\\base_data.py', reloading
+[INFO] 2025-11-20 16:00:28,654 — werkzeug —  * Detected change in 'C:\\Files\\Intern\\ML-Project\\utils\\base_data.py', reloading
+[INFO] 2025-11-20 16:00:38,416 — werkzeug —  * Restarting with watchdog (windowsapi)
+[INFO] 2025-11-20 16:01:46,009 — root — Logging initialized successfully.
+[INFO] 2025-11-20 16:01:46,011 — __main__ — Starting SmartCity server...
+[INFO] 2025-11-20 16:01:46,015 — __main__ — Initializing YOLO models...
+[INFO] 2025-11-20 16:01:46,015 — model_loader — Loading YOLO models on CPU...
+[INFO] 2025-11-20 16:01:46,456 — model_loader — Models loaded successfully.
+[INFO] 2025-11-20 16:01:46,458 — __main__ — Models loaded successfully.
+[INFO] 2025-11-20 16:01:46,489 — sentence_transformers.SentenceTransformer — Use pytorch device_name: cpu
+[INFO] 2025-11-20 16:01:46,490 — sentence_transformers.SentenceTransformer — Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[INFO] 2025-11-20 16:01:55,402 — __main__ — Database reset + base data created.
+[INFO] 2025-11-20 16:01:55,503 — werkzeug — [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.101.7:5000
+[INFO] 2025-11-20 16:01:55,505 — werkzeug — [33mPress CTRL+C to quit[0m
+[INFO] 2025-11-20 16:01:55,559 — werkzeug —  * Restarting with watchdog (windowsapi)
+[INFO] 2025-11-20 16:02:39,754 — root — Logging initialized successfully.
+[INFO] 2025-11-20 16:02:39,758 — __main__ — Starting SmartCity server...
+[INFO] 2025-11-20 16:02:39,762 — __main__ — Initializing YOLO models...
+[INFO] 2025-11-20 16:02:39,765 — model_loader — Loading YOLO models on CPU...
+[INFO] 2025-11-20 16:02:40,134 — model_loader — Models loaded successfully.
+[INFO] 2025-11-20 16:02:40,134 — __main__ — Models loaded successfully.
+[INFO] 2025-11-20 16:02:40,139 — sentence_transformers.SentenceTransformer — Use pytorch device_name: cpu
+[INFO] 2025-11-20 16:02:40,140 — sentence_transformers.SentenceTransformer — Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[INFO] 2025-11-20 16:02:45,884 — __main__ — Database reset + base data created.
+[WARNING] 2025-11-20 16:02:45,928 — werkzeug —  * Debugger is active!
+[INFO] 2025-11-20 16:02:45,937 — werkzeug —  * Debugger PIN: 124-983-047
+[INFO] 2025-11-21 10:25:03,280 — root — Logging initialized successfully.
+[INFO] 2025-11-21 10:25:03,283 — __main__ — Starting SmartCity server...
+[INFO] 2025-11-21 10:25:03,285 — __main__ — Initializing YOLO models...
+[INFO] 2025-11-21 10:25:03,286 — model_loader — Loading YOLO models on CPU...
+[INFO] 2025-11-21 10:25:03,827 — model_loader — Models loaded successfully.
+[INFO] 2025-11-21 10:25:03,828 — __main__ — Models loaded successfully.
+[INFO] 2025-11-21 10:25:03,836 — sentence_transformers.SentenceTransformer — Use pytorch device_name: cpu
+[INFO] 2025-11-21 10:25:03,836 — sentence_transformers.SentenceTransformer — Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[INFO] 2025-11-21 10:25:10,455 — __main__ — Database reset + base data created.
+[INFO] 2025-11-21 10:25:10,532 — werkzeug — [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.101.8:5000
+[INFO] 2025-11-21 10:25:10,533 — werkzeug — [33mPress CTRL+C to quit[0m
+[INFO] 2025-11-21 10:25:10,573 — werkzeug —  * Restarting with watchdog (windowsapi)
+[INFO] 2025-11-21 10:25:35,391 — root — Logging initialized successfully.
+[INFO] 2025-11-21 10:25:35,391 — __main__ — Starting SmartCity server...
+[INFO] 2025-11-21 10:25:35,397 — __main__ — Initializing YOLO models...
+[INFO] 2025-11-21 10:25:35,398 — model_loader — Loading YOLO models on CPU...
+[INFO] 2025-11-21 10:25:35,629 — model_loader — Models loaded successfully.
+[INFO] 2025-11-21 10:25:35,630 — __main__ — Models loaded successfully.
+[INFO] 2025-11-21 10:25:35,632 — sentence_transformers.SentenceTransformer — Use pytorch device_name: cpu
+[INFO] 2025-11-21 10:25:35,633 — sentence_transformers.SentenceTransformer — Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[INFO] 2025-11-21 10:25:40,572 — __main__ — Database reset + base data created.
+[WARNING] 2025-11-21 10:25:40,606 — werkzeug —  * Debugger is active!
+[INFO] 2025-11-21 10:25:40,614 — werkzeug —  * Debugger PIN: 124-983-047
+[INFO] 2025-11-21 10:30:28,999 — werkzeug — 127.0.0.1 - - [21/Nov/2025 10:30:28] "GET /health HTTP/1.1" 200 -
+[INFO] 2025-11-21 10:30:39,487 — werkzeug — 127.0.0.1 - - [21/Nov/2025 10:30:39] "POST /detect HTTP/1.1" 200 -
+[INFO] 2025-11-21 11:03:35,979 — werkzeug —  * Detected change in 'C:\\Files\\Intern\\ML-Project\\models\\detection.py', reloading
+[INFO] 2025-11-21 11:03:46,533 — werkzeug —  * Restarting with watchdog (windowsapi)
+[INFO] 2025-11-21 11:05:17,918 — root — Logging initialized successfully.
+[INFO] 2025-11-21 11:05:17,919 — __main__ — Starting SmartCity server...
+[INFO] 2025-11-21 11:05:17,923 — __main__ — Initializing YOLO models...
+[INFO] 2025-11-21 11:05:17,924 — model_loader — Loading YOLO models on CPU...
+[INFO] 2025-11-21 11:05:18,430 — model_loader — Models loaded successfully.
+[INFO] 2025-11-21 11:05:18,431 — __main__ — Models loaded successfully.
+[INFO] 2025-11-21 11:05:18,457 — sentence_transformers.SentenceTransformer — Use pytorch device_name: cpu
+[INFO] 2025-11-21 11:05:18,459 — sentence_transformers.SentenceTransformer — Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[INFO] 2025-11-21 11:05:26,269 — __main__ — Database reset + base data created.
+[WARNING] 2025-11-21 11:05:26,344 — werkzeug —  * Debugger is active!
+[INFO] 2025-11-21 11:05:26,363 — werkzeug —  * Debugger PIN: 124-983-047
+[INFO] 2025-11-21 12:15:24,291 — werkzeug —  * Detected change in 'C:\\Files\\Intern\\ML-Project\\models\\department.py', reloading
+[INFO] 2025-11-21 12:15:31,358 — werkzeug —  * Restarting with watchdog (windowsapi)
+[INFO] 2025-11-21 12:15:59,269 — root — Logging initialized successfully.
+[INFO] 2025-11-21 12:15:59,270 — __main__ — Starting SmartCity server...
+[INFO] 2025-11-21 12:15:59,272 — __main__ — Initializing YOLO models...
+[INFO] 2025-11-21 12:15:59,272 — model_loader — Loading YOLO models on CPU...
+[INFO] 2025-11-21 12:15:59,660 — model_loader — Models loaded successfully.
+[INFO] 2025-11-21 12:15:59,660 — __main__ — Models loaded successfully.
+[INFO] 2025-11-21 12:15:59,668 — sentence_transformers.SentenceTransformer — Use pytorch device_name: cpu
+[INFO] 2025-11-21 12:15:59,669 — sentence_transformers.SentenceTransformer — Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[INFO] 2025-11-21 12:16:08,802 — __main__ — Database reset + base data created.
+[WARNING] 2025-11-21 12:16:08,834 — werkzeug —  * Debugger is active!
+[INFO] 2025-11-21 12:16:08,839 — werkzeug —  * Debugger PIN: 124-983-047
+[INFO] 2025-11-21 12:16:33,342 — werkzeug —  * Detected change in 'C:\\Files\\Intern\\ML-Project\\models\\user.py', reloading
+[INFO] 2025-11-21 12:16:34,915 — werkzeug —  * Restarting with watchdog (windowsapi)
+[INFO] 2025-11-21 12:16:49,790 — root — Logging initialized successfully.
+[INFO] 2025-11-21 12:16:49,790 — __main__ — Starting SmartCity server...
+[INFO] 2025-11-21 12:16:49,791 — __main__ — Initializing YOLO models...
+[INFO] 2025-11-21 12:16:49,792 — model_loader — Loading YOLO models on CPU...
+[INFO] 2025-11-21 12:16:49,869 — model_loader — Models loaded successfully.
+[INFO] 2025-11-21 12:16:49,870 — __main__ — Models loaded successfully.
+[INFO] 2025-11-21 12:16:49,871 — sentence_transformers.SentenceTransformer — Use pytorch device_name: cpu
+[INFO] 2025-11-21 12:16:49,872 — sentence_transformers.SentenceTransformer — Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[INFO] 2025-11-21 12:16:54,452 — __main__ — Database reset + base data created.
+[WARNING] 2025-11-21 12:16:54,486 — werkzeug —  * Debugger is active!
+[INFO] 2025-11-21 12:16:54,498 — werkzeug —  * Debugger PIN: 124-983-047
+[INFO] 2025-11-21 12:24:24,630 — werkzeug —  * Detected change in 'C:\\Files\\Intern\\ML-Project\\controllers\\__init__.py', reloading
+[INFO] 2025-11-21 12:24:27,672 — werkzeug —  * Restarting with watchdog (windowsapi)
+[INFO] 2025-11-21 12:24:48,460 — root — Logging initialized successfully.
+[INFO] 2025-11-21 12:24:48,460 — __main__ — Starting SmartCity server...
+[INFO] 2025-11-21 12:24:48,461 — __main__ — Initializing YOLO models...
+[INFO] 2025-11-21 12:24:48,462 — model_loader — Loading YOLO models on CPU...
+[INFO] 2025-11-21 12:24:48,563 — model_loader — Models loaded successfully.
+[INFO] 2025-11-21 12:24:48,563 — __main__ — Models loaded successfully.
+[INFO] 2025-11-21 12:24:48,566 — sentence_transformers.SentenceTransformer — Use pytorch device_name: cpu
+[INFO] 2025-11-21 12:24:48,567 — sentence_transformers.SentenceTransformer — Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[INFO] 2025-11-21 12:24:53,881 — __main__ — Database reset + base data created.
+[WARNING] 2025-11-21 12:24:53,904 — werkzeug —  * Debugger is active!
+[INFO] 2025-11-21 12:24:53,908 — werkzeug —  * Debugger PIN: 124-983-047
+[INFO] 2025-11-21 12:25:15,884 — werkzeug —  * Detected change in 'C:\\Files\\Intern\\ML-Project\\middlewares\\__init__.py', reloading
+[INFO] 2025-11-21 12:25:17,617 — werkzeug —  * Restarting with watchdog (windowsapi)
+[INFO] 2025-11-21 12:25:33,864 — root — Logging initialized successfully.
+[INFO] 2025-11-21 12:25:33,865 — __main__ — Starting SmartCity server...
+[INFO] 2025-11-21 12:25:33,868 — __main__ — Initializing YOLO models...
+[INFO] 2025-11-21 12:25:33,868 — model_loader — Loading YOLO models on CPU...
+[INFO] 2025-11-21 12:25:34,083 — model_loader — Models loaded successfully.
+[INFO] 2025-11-21 12:25:34,085 — __main__ — Models loaded successfully.
+[INFO] 2025-11-21 12:25:34,089 — sentence_transformers.SentenceTransformer — Use pytorch device_name: cpu
+[INFO] 2025-11-21 12:25:34,095 — sentence_transformers.SentenceTransformer — Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[INFO] 2025-11-21 12:25:39,848 — __main__ — Database reset + base data created.
+[WARNING] 2025-11-21 12:25:39,891 — werkzeug —  * Debugger is active!
+[INFO] 2025-11-21 12:25:39,905 — werkzeug —  * Debugger PIN: 124-983-047
+[INFO] 2025-11-21 12:28:26,481 — werkzeug —  * Detected change in 'C:\\Files\\Intern\\ML-Project\\__init__.py', reloading
+[INFO] 2025-11-21 12:28:28,181 — werkzeug —  * Restarting with watchdog (windowsapi)
+[INFO] 2025-11-21 12:28:49,113 — root — Logging initialized successfully.
+[INFO] 2025-11-21 12:28:49,113 — __main__ — Starting SmartCity server...
+[INFO] 2025-11-21 12:28:49,114 — __main__ — Initializing YOLO models...
+[INFO] 2025-11-21 12:28:49,114 — model_loader — Loading YOLO models on CPU...
+[INFO] 2025-11-21 12:28:49,247 — model_loader — Models loaded successfully.
+[INFO] 2025-11-21 12:28:49,247 — __main__ — Models loaded successfully.
+[INFO] 2025-11-21 12:28:49,249 — sentence_transformers.SentenceTransformer — Use pytorch device_name: cpu
+[INFO] 2025-11-21 12:28:49,251 — sentence_transformers.SentenceTransformer — Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[INFO] 2025-11-21 12:28:54,168 — __main__ — Database reset + base data created.
+[WARNING] 2025-11-21 12:28:54,188 — werkzeug —  * Debugger is active!
+[INFO] 2025-11-21 12:28:54,197 — werkzeug —  * Debugger PIN: 124-983-047
